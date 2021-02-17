@@ -4,10 +4,11 @@
   "description": "Zoom Instant SDK",
   "browser": "dist/index.umd.js",
   "bundleDependencies": false,
-  "dependencies": {
-    "@zoom/web-sdk-core": "0.0.84"
-  },
-  "keywords": ["zoom", "instant", "sdk"],
+  "keywords": [
+    "zoom",
+    "instant",
+    "sdk"
+  ],
   "author": "Jack Yang",
   "files": [
     "/doc",
